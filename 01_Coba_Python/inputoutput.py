@@ -1,0 +1,5 @@
+print("=+=+=+= input mahasiswa =+=+=+=")
+nim = print("nim = "+str(nim))
+nm = print("nama = "+str(nm))
+kelas = print("kelas = "+str(kelas))
+prodi = print("prodi = "+str(prodi))
